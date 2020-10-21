@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CloseClothes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sizes">SIZES:</string>
+    <string name="info">This app built using Restful Api (Made by me), Mvvm and Mvc Design Pattern.</string>
+</resources>
